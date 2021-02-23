@@ -2,5 +2,25 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/erinsamson/Desktop/SwiftPlaygroundsFour/SwiftPlaygroundFour.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=158&amp;EndingColumnNumber=0&amp;EndingLineNumber=15&amp;StartingColumnNumber=5&amp;StartingLineNumber=14&amp;Timestamp=635803528.423532"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/erinsamson/Desktop/SwiftPlaygroundsFour/SwiftPlaygroundFour.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=140&amp;EndingColumnNumber=8&amp;EndingLineNumber=13&amp;StartingColumnNumber=5&amp;StartingLineNumber=13&amp;Timestamp=635803528.423617"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/erinsamson/Desktop/SwiftPlaygroundsFour/SwiftPlaygroundFour.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=227&amp;EndingColumnNumber=0&amp;EndingLineNumber=23&amp;StartingColumnNumber=9&amp;StartingLineNumber=22&amp;Timestamp=635803528.423679"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/erinsamson/Desktop/SwiftPlaygroundsFour/SwiftPlaygroundFour.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=237&amp;EndingColumnNumber=0&amp;EndingLineNumber=24&amp;StartingColumnNumber=5&amp;StartingLineNumber=23&amp;Timestamp=635803528.4237241"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
